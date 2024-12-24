@@ -1,0 +1,13 @@
+numpy==1.23.0
+scenedetect==0.6.0
+scikit-image==0.24.0
+scikit-learn==1.6.0
+opencv-contrib-python
+python_speech_features
+pyworld
+pyyaml
+pytorch-lightning==1.9.0  # 确保与 torch 1.11.0 兼容
+imageio
+opencv-python
+scipy
+
